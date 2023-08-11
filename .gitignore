@@ -1,2 +1,3 @@
 .env
 venv
+sergey_secret_key.py
