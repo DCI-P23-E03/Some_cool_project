@@ -11,3 +11,5 @@ print(api_key)
 print(sk)
 print(jk)
 
+print(jk.split())
+
